@@ -1,0 +1,13 @@
+2022-11-16T16:47:03.922Z [petshop-api] error GET  - password authentication failed for user "xanrvimg"
+2022-11-16T16:48:09.856Z [petshop-api] info GET /proprietario
+2022-11-16T16:48:46.513Z [petshop-api] info GET /proprietario
+2022-11-16T17:04:54.170Z [petshop-api] info GET /animal
+2022-11-16T17:04:58.304Z [petshop-api] info GET /animal
+2022-11-16T17:05:36.237Z [petshop-api] info GET /animal
+2022-11-16T17:05:43.289Z [petshop-api] info GET /animal
+2022-11-16T17:05:55.036Z [petshop-api] info GET /animal
+2022-11-16T17:16:41.887Z [petshop-api] info GET /animal
+2022-11-16T17:16:45.746Z [petshop-api] info GET /animal
+2022-11-16T17:20:24.953Z [petshop-api] info GET /animal
+2022-11-16T17:20:43.457Z [petshop-api] info GET /animal
+2022-11-16T17:20:56.288Z [petshop-api] info GET /animal
